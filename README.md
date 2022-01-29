@@ -5,7 +5,7 @@ See thru stone and other materials.
 ## What's in the box
 
 - API for adding nodes to see thru
-- Redesigned internals from my xray in [oretracker](https://content.minetest.net/packages/ApolloX/oretracker/){:target="_blank"}
+- Redesigned internals from my xray in [oretracker](https://content.minetest.net/packages/ApolloX/oretracker/)
 - Adds a formspec for adding/removing nodes so you can individually customize it
 - Toggled by `/xray` chat command. (this means oretracker will disable it's xray mod in place of this one, since it will be more advanced and ultimatly better)
 
